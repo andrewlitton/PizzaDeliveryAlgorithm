@@ -2,6 +2,7 @@
     a. If they don't answer, go back to 1. Otherwise, continue.
 2. Order a ________ (pizza type) pizza
 3. Give credit card info
+	a. If intention is to pay in cash, move to 4.
 4. Wait
 5. Receive pizza
     a. If pizza is not _______ (pizza type), then send back.  Otherwise, continue.
